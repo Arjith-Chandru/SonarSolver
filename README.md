@@ -1,0 +1,2 @@
+# SonarSolver
+Solver project
